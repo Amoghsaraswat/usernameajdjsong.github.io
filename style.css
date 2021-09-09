@@ -10,6 +10,15 @@ body{
     font-size: 15px;
     color: chocolate;
 }
+.Divspeed{
+    float: left;
+}
+.img1{
+    width: 300px;
+}
+.Divolume{
+    float: right;
+}
 .play_style{
     width: 130px;
     font-size: 40px;
